@@ -1,0 +1,2 @@
+# Numerical-Quadrature
+In this report, we discussed and presented the various methods for Numerical Quadrature, explain the numerical implementation in Python and then apply the results for a simple definite integral of sin(x) in [0,π]. We used Linear Regression to produce a linear plot using the raw data generated using the codes presented here. Also contains comment on accuracy and order of accuracy of the 4 methods considered.
